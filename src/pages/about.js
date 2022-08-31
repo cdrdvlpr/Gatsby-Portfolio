@@ -19,8 +19,8 @@ export default function About({ data }) {
           alt={title}
         />
         <p>Self-taught front-end developer with high passion and enthusiasm.</p>
-        <p>Ambitious, achiever.</p>
-        <p>Collaboration with the team is number one priority.</p>
+        <p>Ambitious, Achiever, Leader.</p>
+        <p>Co-operation with the team is number one priority.</p>
         <hr />
         <p>
           Interested? Contact me here:
