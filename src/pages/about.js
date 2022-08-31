@@ -18,7 +18,7 @@ export default function About({ data }) {
           fixed={data.file.childImageSharp.fixed}
           alt={title}
         />
-        <p>Self-taught front-end developer with high passion and enthusiasm.</p>
+        <p>Self-taught Front-End Developer with High Passion &amp; Enthusiasm.</p>
         <p>Ambitious, Achiever, Leader.</p>
         <p>Co-operation with the team is number one priority.</p>
         <hr />
